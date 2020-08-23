@@ -1,0 +1,4 @@
+// the configured options and settings for this tutorial
+
+#define Sniffer_VERSION_MAJOR @Sniffer_VERSION_MAJOR@
+#define Sniffer_VERSION_MINOR @Sniffer_VERSION_MINOR@
